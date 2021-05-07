@@ -17,7 +17,7 @@ To access this project, you will need to access the repository [News-portal](htt
 
 ### Technologies Used
 * [Java](https://sdkman.io/usage)
-* [Handlebars](https://handlebarsjs.com/)
+
 ### Bugs or Malfunctions
 
 *
